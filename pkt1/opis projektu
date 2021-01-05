@@ -1,0 +1,7 @@
+Jakub Pietkiewicz IO III/4
+Opis projektu
+
+Projekt ma na celu przedstawiać wyposażenie krajów w czołgi oraz ich załogi, budowę czołgów, właściwości ich części, role załogantów, przynależność do czołgów oraz ukończone
+szkolenie. Projekt zawiera triggery automatycznie wykrywające czy wpisana została jednostka miary i jeśli nie została to trigger sam ją dopisze oraz ograniczający wpisywaną
+wartość do podanego zakresu. Procedura pozwala na wyświetlenie wszystkich części czołgów dla podanego ID czołgu. Funkcja zmienia nazwy krajów z Polskich na Angielskie
+(np. Wielka Brytania -> Great Britain).
