@@ -1,3 +1,4 @@
+/*Procedura wyswietla nazwy wszystkich czesci czolgu o podanym id */
 DELIMITER $$
 
 CREATE PROCEDURE czesciczolgu (IN id INT)
