@@ -1,3 +1,4 @@
+/*Trigger ogranicza wielkosc wpisywanej wartosci i jesli jest poza przedzialem to wstawia wartosc graniczna */
 DELIMITER $$
 CREATE TRIGGER amunicja_bi
 BEFORE INSERT ON amunicja
