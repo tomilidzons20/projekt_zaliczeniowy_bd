@@ -1,3 +1,4 @@
+/*Trigger sprawdza czy do podanej wartosci zostala dopisana jednoska miary, a jesli to nie zostaje ona dopisana */
 DELIMITER $$
 CREATE TRIGGER gasienice_ai
 BEFORE INSERT ON gasienice
